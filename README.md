@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gokceh and an *architect* for quite sometime 
-- 👀 I’m recently interested in UX design and web development
-- 🌱 I’m currently learning HTML / CSS / github   ---   *NEXT --> Javascript / React*
+- 👀 recently interested in UX design, CS
+- 🌱 didn't know where to start so currently taking the CS50 class
 - ⏲️ Other things I like ---> geeking out over space 👾🌌, knitting 🧶 and reading 📚
 - 📫 gokceh@gmail.com
 

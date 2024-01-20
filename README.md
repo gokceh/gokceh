@@ -2,7 +2,7 @@
 - 👀 I’m recently interested in UX design and web development
 - 🌱 I’m currently learning HTML / CSS / github   ---   *NEXT --> Javascript / React*
 - ⏲️ Other things I like ---> geeking out over space 👾🌌, knitting 🧶 and reading 📚
-- 📫 goccearc@gmail.com
+- 📫 gokceh@gmail.com
 
 <!---
 gokceh/gokceh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

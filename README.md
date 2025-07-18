@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gokceh and an *architect* for quite sometime 
-- 👀 recently interested in UX design, CS
-- 🌱 didn't know where to start so currently taking the CS50 class
+- 👀 recently interested in UX/UI design,
+- 🌱 currently taking some IBM, Adobe and Coursera courses
 - ⏲️ Other things I like ---> geeking out over space 👾🌌, knitting 🧶 and reading 📚
 - 📫 gokceh@gmail.com
 

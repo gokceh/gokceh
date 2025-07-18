@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gokceh and an *architect* for quite sometime 
+- 👋 Hi, I’m gokce and an *(building) architect* for quite sometime 
 - 👀 recently interested in UX/UI design,
 - 🌱 currently taking some IBM, Adobe and Coursera courses
 - ⏲️ Other things I like ---> geeking out over space 👾🌌, knitting 🧶 and reading 📚
